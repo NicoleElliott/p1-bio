@@ -1,8 +1,8 @@
 /* Your Website Styles */
 
 
-p {
-line-height:1.25em;
+html {
+line-height: 2.0em;
 margin-bottom: 1em;
 }
  .global-nav {
