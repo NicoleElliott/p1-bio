@@ -1,0 +1,86 @@
+/* Your Website Styles */
+
+
+p {
+line-height:1.25em;
+margin-bottom: 1em;
+}
+ .global-nav {
+    position: fixed;
+    top:0;
+    left:0;
+    z-index: 10;
+    width: 100%;
+    background: teal;
+    line-height: 5px;
+    white-space: nowrap;
+    min-width: 30px;
+}
+html {
+    background: url("../img/bg.png");
+}
+
+.container {
+    background: teal;
+    position: relative;
+/*    min-height: 210px;*/
+    border-radius: 10px;
+    
+/*    left: 50%;
+    margin-left: -444px;*/
+    margin-top: 100px;
+    box-shadow: 0px 0px 50px 10px rgba(68, 68, 68, .8);
+}
+ 
+.alpha {
+margin-top: 10px;
+margin-bottom: 0px;
+margin-left: 5px;
+margin-right: 25px;
+}
+ .content {
+    margin-top: 50px;
+
+}
+.center-content {
+    padding: 10px 0 10px 74px;
+}
+
+h1 {
+    text-align: center;
+    color : white;
+    font-size: 30px;
+}
+h2{
+	font-size: 24px;
+}
+h3{
+	font-size: 20px;
+}
+a {
+    text-decoration: none;
+    color: white;
+}
+
+span {
+    padding-right: 50px;
+}
+
+}
+.email, .phone-num {
+    font-size: 100%;
+    text-decoration: none;
+}
+.email:hover,
+.school-link:hover {
+    color: white;
+    text-decoration: underline;
+}
+
+
+
+ .bottom-margin {
+    margin: 50px;
+}
+
+*/
