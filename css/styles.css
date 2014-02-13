@@ -4,6 +4,7 @@
 html {
 line-height: 2.0em;
 margin-bottom: 1em;
+text-decoration: none;
 }
  .global-nav {
     position: fixed;
