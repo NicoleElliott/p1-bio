@@ -2,6 +2,7 @@
 
 
 html {
+     font-family: 'PT Serif Caption', serif;
 line-height: 2.0em;
 margin-bottom: 1em;
 text-decoration: none;
@@ -19,6 +20,8 @@ text-decoration: none;
 }
 html {
     background: url("../img/bg.png");
+    background-repeat: repeat;
+    
 }
 
 .container {
