@@ -2,11 +2,16 @@
 
 
 html {
-     font-family: 'Times New Roman', serif;
+font-family: Georgia, serif;
 line-height: 2.0em;
 margin-bottom: 1em;
 text-decoration: none;
 }
+
+span {
+    padding-right: 50px;
+}
+
  .global-nav {
     position: fixed;
     top:0;
@@ -56,22 +61,21 @@ h1 {
     font-size: 30px;
 }
 h2{
-	font-size: 24px;
+	font-size: 28px;
 }
 h3{
-	font-size: 20px;
+	font-size: 26px;
 }
+
+p{
+    font-size: 22px;
+}
+
 a {
     text-decoration: none;
-    color: white;
+    }
 }
-
-span {
-    padding-right: 50px;
-}
-
-}
-.email, .phone-num {
+.email,  {
     font-size: 100%;
     text-decoration: none;
 }
