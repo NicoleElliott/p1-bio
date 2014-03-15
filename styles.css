@@ -6,33 +6,29 @@ font-family: 'Noto Serif', serif;
 line-height: 2.0em;
 margin-bottom: 1em;
 text-decoration: none;
+background: url("bg.png");
+background-repeat: repeat;
 }
-
 
 span {
     padding-right: 50px;
 
 }
 
- .global-nav {
+.global-nav {
     position: fixed;
     top:0;
     left:0;
     z-index: 10;
     width: 100%;
-    background: teal;
+    background: #008080;
     line-height: 5px;
     white-space: nowrap;
     min-width: 30px;
 }
-html {
-    background: url("../img/bg.png");
-    background-repeat: repeat;
-    
-}
 
 .container {
-    background: teal;
+    background: #008080;
     position: relative;
 /*    min-height: 210px;*/
     border-radius: 10px;
@@ -79,7 +75,7 @@ a {
 }
 
 h1 ~ span {
-    color: #BFFFFE;
+    color: #008080;
 }
 
  .bottom-margin {
