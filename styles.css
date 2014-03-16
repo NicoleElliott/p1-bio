@@ -21,14 +21,14 @@ span {
     left:0;
     z-index: 10;
     width: 100%;
-    background: #008080;
+    background: #802A00;
     line-height: 5px;
     white-space: nowrap;
     min-width: 30px;
 }
 
 .container {
-    background: #008080;
+    background: #802A00;
     position: relative;
 /*    min-height: 210px;*/
     border-radius: 10px;
@@ -70,6 +70,7 @@ p{
 }
 
 a {
+    color: #BFFFFE;
     text-decoration: none;
     }
 }
