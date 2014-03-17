@@ -1,4 +1,7 @@
 /*
+
+FORMULA: target / context = result
+
  Width: 1000px
  # Columns : 12 
  Column width: 65px
@@ -21,21 +24,42 @@
 
 body {min-width: 888px;}
 
-.grid_1,
-.grid_2,
-.grid_3,
-.grid_4,
-.grid_5,
-.grid_6,
-.grid_7,
-.grid_8,
-.grid_9,
-.grid_10,
-.grid_11,
+.grid_1{
+	 margin: 0 2% 1% 0;;
+}
+.grid_2{
+margin: 0 2% 1% 0;
+}
+.grid_3{
+margin: 0 2% 1% 0;
+}
+.grid_4{
+margin: 0 2% 1% 0;
+}
+.grid_5{
+margin: 0 2% 1% 0;
+}
+.grid_6{
+margin: 0 2% 1% 0;
+}
+.grid_7{
+margin: 0 2% 1% 0;
+}
+.grid_8{
+margin: 0 2% 1% 0;
+}
+.grid_9{
+margin: 0 2% 1% 0;
+}
+.grid_10{
+margin: 0 2% 1% 0;
+}
+.grid_11{
+margin: 0 2% 1% 0;
+}
 .grid_12 {
 	display:block;
-	margin-left: 5px;
-	margin-right: 5px;
+	margin: 0 2% 1% 0;
 }
 
 .alpha{margin-left:0px;}

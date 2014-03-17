@@ -54,20 +54,22 @@ margin-right: 25px;
 }
 
 h1 {
-    text-align: center;
-    font-size: 30px;
+    font-family: 'Noto Serif', serif;
+   text-align: center;
+    font-size: 1.875em;
 }
 h2{
-	font-size: 28px;
+    font-family: 'Noto Serif', serif;
+    font-size: 1.75em;
 }
 h3{
-	font-size: 26px;
+    font-family: 'Noto Serif', serif;
+    font-size: 1.625em;
 }
 
 p{
     font-family: Verdana, sans-serif;
-    font-size: 22px;
-}
+    font-size: 1.375em;
 
 a {
     color: #BFFFFE;
